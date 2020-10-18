@@ -1,0 +1,24 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "For people that need to keep track of a lot of information, it's easy to forget important things. Being able to take persistent notes allows people to have written information available when they need it. Your challenge is to create a Note Taker application that can be used to write and save notes. This application will use an Express.js backend and save and retrieve note data from a JSON file.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R0nG13/note-taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/R0nG13/note-taker/issues"
+  },
+  "homepage": "https://github.com/R0nG13/note-taker#readme"
+}
